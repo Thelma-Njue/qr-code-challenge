@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(201, 212, 231);
+    
+    height: 100vh;
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
+.parent{
+    background-color: whitesmoke;
+    position: absolute;
+    height: 65%;
+    width: 20%;
+    top: 10%;
+    left: 5%;
+    right: 4%;
+    bottom: 10%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15PX;
+    
+
+    
+
+
+
+
+
+
+
+}
+
+.image{
+background-color: rgb(120, 120, 219);
+margin: 30PX;
+width: 200PX;
+height:200PX;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 10px;
+jus
+}
+#love{
+    height: 70%;
+    width: 80%;
+    
+}
+.content{
+    padding-left: 29px;
+    padding-right: 20px;
+    font-size: 15PX;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+}
